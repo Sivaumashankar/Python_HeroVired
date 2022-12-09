@@ -1,0 +1,11 @@
+price of all products
+price of all products
+price of all products
+1 30
+2 50
+3 80
+price of all products
+1 30
+2 50
+3 80
+370
